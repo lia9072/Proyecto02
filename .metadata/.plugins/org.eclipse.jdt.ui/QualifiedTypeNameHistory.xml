@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="clases.Cursos"/>
+    <fullyQualifiedTypeName name="clases.Matricula"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="clases.Retiro"/>
+    <fullyQualifiedTypeName name="clases.Alumno"/>
+    <fullyQualifiedTypeName name="arreglos.ArregloAlumno"/>
+    <fullyQualifiedTypeName name="javax.swing.table.TableColumnModel"/>
+    <fullyQualifiedTypeName name="javax.swing.JOptionPane"/>
+    <fullyQualifiedTypeName name="javax.swing.table.DefaultTableModel"/>
+</qualifiedTypeNameHistroy>
